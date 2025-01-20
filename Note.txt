@@ -1,0 +1,24 @@
+Credentials saved to file: /Users/a0j0e7t/Development/GCP/valid-aquifer-448311-h1-e4997444d843.json
+
+
+https://console.cloud.google.com/storage/browser/jairath_gcs_poc;tab=objects?forceOnBucketsSortingFiltering=true&project=valid-aquifer-448311-h1&prefix=&forceOnObjectsSortingFiltering=false]
+
+
+https://console.cloud.google.com/iam-admin/privacy?hl=en&project=valid-aquifer-448311-h1
+
+
+
+on office vpn connection code will not work. disconnect from vpn and run
+
+
+
+http://localhost:8097/swagger-ui/index.html
+
+
+
+
+vm Args:
+    -Dserver.port=8097
+
+Environment Args:
+    GOOGLE_APPLICATION_CREDENTIALS=/Users/a0j0e7t/Development/GCP/valid-aquifer-448311-h1-e4997444d843.json
