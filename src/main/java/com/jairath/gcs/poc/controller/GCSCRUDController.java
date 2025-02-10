@@ -44,7 +44,7 @@ public class GCSCRUDController {
             // Call the service to upload JSON directly
             gcscrud.uploadJson(bucketName, destinationPath);
 
-            return "Dynamic JSON uploaded directly to GCS successfully!";
+            return "Dynamic JSON uploaded directly to GCS successfully! dummy";
         } catch (Exception e) {
             e.printStackTrace();
             return "Error uploading JSON to GCS: " + e.getMessage();
